@@ -18,196 +18,59 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.y60a36074918183509743586d37932886{
-font-weight: inherit;
-background-image: linear-gradient(120deg, #ffca5c 0%, #ffc85a 100%);
-background-repeat: no-repeat;
-background-size: 100% 30%;
-background-position: 0 90%;
-transition: background-size 0.2s ease-in;
-}
-.a1770858394e9089a050fd3e3281cf929{
-    background-color: transparent;
-font-size: 23.5px;
-height: 47.8px;
-min-width: 50px;
-padding: 0.7rem;
-padding-top: 12.7px;
-color: #ffffff !important;
-border: 1px solid #ffffff;
-border-radius: 25px;
-}
-.d2019d752dcb0cb3070e668f02c07d7e3 i{
-border-radius: 50%;
-width: 37.3px;
-line-height: 35px;
-text-align: center;
-height: 37px;
-}
-.justify-content-evenly{
-justify-content: space-evenly;
-}
-.x824f840c05de5a95e45c3b0d4ea26155:hover,.y60a36074918183509743586d37932886:hover{
-background-size: 100% 100% !important;
-background: #ffffff!important;
-background-repeat: no-repeat !important;
-background-position: 0 90% !important;
-transition: background-size 0.2s ease-in !important;
-}
-.container{
-max-width:1300px
-}
-.post-content *{
-
-font-size: 1.25rem;
-}
-.btn-md{
-padding: 15px 30px;
-border-radius: 0;
-}
-.w5f510bd1bfa266e77bfde400ae9c9e7d{
-font-size:16px!important;
-color: #696969;
-}
-*{
-font-family: 'Roboto', sans-serif;
-}
-.vfc1738aac8606e270217c93aa72c2dfa a{
+.td49c32935f881a30f1f166a118b262dd a{
 color: white;
 }
-.xa4ccbb3f5a37ef2e90e82fff490ef718{
-transition: all 0.3s; 
+.d44b3ab4ca65e1d44a6b4d9279ada4d35{
+font-size: 2rem !important;
 }
-footer a{
-color:#fd834c;
-text-decoration: underline;
+ul{
+text-decoration:none;display:inline-block;text-align:left
 }
-.navbar-brand img{
-position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
+.x380af421a0f59bd3ca28aaa9cecf2e53 *{
+color:#ffffff;
 }
-.nav-item{
-padding-left:8px;
-padding-right:8.1px;
-padding-top:5.4px;
-padding-bottom:4.8px;
+html{
+scroll-behavior: smooth;
 }
-.a9b4638419e5a4acbb9ca57a41989a756 a{
-font-size:16px;
-}
-.df6e6fe1b7e43127664bab405ae6e2b1f{
-color: #9a9a9a;
-font-size: 20.2px;
-margin-bottom: 21.2px;
-}
-.d2019d752dcb0cb3070e668f02c07d7e3 i:hover{
-background: white;
-color: #fecbcf;!important;
-line-height: 35px;
-border-radius: 50%;
-width: 36.8px;
-text-align: center;
-height: 36.6px;
-}
-.x2345a0cfc19e7df0768ffd6e0738b28e{
-background:#a55c5c!important ;
-}
-h1{
-font-weight:900
+.zec525e15293a472c4438642371442c43 *{
+color: white;
 }
 a:hover{
 color:#fecbcf;background:#ffffff!important
 }
-.v79b54e772ad802ee356cb1fe93bcfd90{
-padding: 20px;
-background: #f5f5f7;
-margin-bottom: 30px;
-position: relative;
-border-radius: 2px;  
-
-margin-bottom: 30px;
-transition: all 400ms;
-}
-.v79b54e772ad802ee356cb1fe93bcfd90 > a > .b213b045eb25bc67d880b3aac364eae4a{
-font-size: 21.5px;
-margin-top: 1.875rem;
-margin-bottom: 0.625rem;
-}
-.vfc1738aac8606e270217c93aa72c2dfa{
-font-size:15.2px!important;
-font-style: italic;
-margin-top: 0;
-font-style: normal;
-color: #5e5e5e;
-}
-.d7c343adfb18abd6cd49f959036bcd29a{
-color: #fff;
-background-color: #ff8651;
-border-color: #fd844f;
-display: inline-block;
-font-weight: 800;
-line-height: 1.5;
-text-align: center;
-vertical-align: middle;
-cursor: pointer;
-padding: 1rem 1.75rem;
-font-size: 0.875rem;
-border-radius: 0;
-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-.ac9ea78168396b8ac0829948fedd88ab7 p,.ac9ea78168396b8ac0829948fedd88ab7 a,.ac9ea78168396b8ac0829948fedd88ab7 span,.ac9ea78168396b8ac0829948fedd88ab7 label{
-font-size:16px!important;
-}
-.v79b54e772ad802ee356cb1fe93bcfd90:hover{
-box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
-border-radius: 5px;
-}
-.v79b54e772ad802ee356cb1fe93bcfd90 > a:focus, .v79b54e772ad802ee356cb1fe93bcfd90 > a:hover{
-text-decoration: none;
-color: #0489a5;
-}
-.xe4a4528a18a54c3e297ef8088b0899be{
-font-weight:900;
-}
-.a9b4638419e5a4acbb9ca57a41989a756{
-background:#ffffff;
-}
-.ac9ea78168396b8ac0829948fedd88ab7{
-background:rgba(188,188,134,0.25);
-color:#4f4f4f;
-}
-.xb22c031d0a8fc3de3366ff88700960d2{
-font-size: 14.4px;
-}
-h3,h2,h4,h5{
-font-weight:900;font-size:36px
-}
-.navbar a{
-font-size: 15.9px!important;
-font-weight: normal;text-transform:uppercase
-}
-.e810c494cfe3f2402efd26c569919aa71 *{
-color:#ffffff;
-}
-footer *{
-font-size:16px !important;
-}
-.de104329c93d4a868fea80517dbbb51b5{
-font-size:36px;font-weight:800
+iframe{
+border: none!important;
 }
 .nav-link{
 color: #5b5b5b;
 
 }
-.y965cc41f708d6c740ac1105c1922a347{
-font-size:61px!important;font-weight:600
+.ad9a3a87edbd9953b4054656c16a8e84b i{
+border-radius: 50%;
+width: 36.7px;
+line-height: 35px;
+text-align: center;
+height: 36.8px;
 }
-.v79b54e772ad802ee356cb1fe93bcfd90 > a > .yff0831f354dbd90b72863ab11b0a262d{
-font-weight: 400;
-margin-bottom: 0.625rem;
-line-height:1.7;
-font-size:14.7px;
+.v4e55d5c01701c0c06175ab62be8bccd7 > a:focus, .v4e55d5c01701c0c06175ab62be8bccd7 > a:hover{
+text-decoration: none;
+color: #1095b1;
 }
-.tf68ce4feb787e8dff68b078bd6af9bb2{
+.f4c517b715c90b403ce78f99f46846f25{
+font-size: 20.5px;
+font-weight: bold;
+}
+footer *{
+font-size:16px !important;
+}
+.xc3febb7d9ebe6343324767d3d6cf102e a{
+font-size:16px;
+}
+.y5e56aedb34c74330eae757c7da2ce4bb{
+font-size:36px;font-weight:800
+}
+.t080742dbabd6bf2b4ab5b39a003f13b3{
 width: 100%;
 max-height: 720px;
 object-fit: cover;
@@ -221,71 +84,176 @@ top: 0;
 left: 0;
 right: 0;
 }
-.navbar-toggler span{
-display: flex;
-align-items: center;
-justify-content: center;
-border: 1px solid lightgrey;
-border-radius: 3px;
+.fc4a872ff645fa25c68003939812d93ad{
+text-decoration: underline!important;color:#ff8c22!important
 }
-.a9b4638419e5a4acbb9ca57a41989a756 p,.a9b4638419e5a4acbb9ca57a41989a756 span,.a9b4638419e5a4acbb9ca57a41989a756 label{
+.e7fadd32a2352434ae9d4825b04d1cd97{
+font-weight: inherit;
+background-image: linear-gradient(120deg, #ffd466 0%, #ffcf61 100%);
+background-repeat: no-repeat;
+background-size: 100% 30%;
+background-position: 0 90%;
+transition: background-size 0.2s ease-in;
+}
+.xc3febb7d9ebe6343324767d3d6cf102e p,.xc3febb7d9ebe6343324767d3d6cf102e span,.xc3febb7d9ebe6343324767d3d6cf102e label{
 font-size:16px!important;
-}
-.v79b54e772ad802ee356cb1fe93bcfd90 > .vfc1738aac8606e270217c93aa72c2dfa > a{
-text-decoration: none;
-}
-.a9b4638419e5a4acbb9ca57a41989a756 *{
-color:#404040!important;
 }
 .navbar{
 padding-top:42px;padding-bottom:42px;
 }
-a{
-text-decoration: none;
+footer a{
+color:#fd834c;
+text-decoration: underline;
 }
-ul li a{
-color:#fd834c
-}
-.e846b3137b472d25d2c179bb93482d9bf{
-text-decoration: underline!important;color:#ff8117!important
-}
-.vec3a542d7dd3f64cbb2bd6a4bd69ef7c{
-font-size: 19.6px;
-font-weight: bold;
-}
-iframe{
-border: none!important;
-}
-body{
-color: #545454;
-}
-.v79b54e772ad802ee356cb1fe93bcfd90 > a{
-color:#000000;
-}
-.y74e25848097bc17ce7369609471e0111 *{
-color: white;
-}
-.u0f767177c76db92ffe17e2b873dc16bc{
-background:#FEF6EA;border-bottom:1px solid #bcbc86
+h1{
+font-weight:900
 }
 h1,h2,h3,h4,h5,h6{
 font-family:Montserrat, sans-serif
 }
-ul{
-text-decoration:none;display:inline-block;text-align:left
+.v4e55d5c01701c0c06175ab62be8bccd7 > a > .x1ea550e7f87cb78afd64769eebe05b1a{
+font-weight: 400;
+margin-bottom: 0.625rem;
+line-height:1.7;
+font-size:14.9px;
 }
-.eafacc5cde23a2b7dd52452cdc826e562{
-font-size: 2rem !important;
+a{
+text-decoration: none;
+}
+.v4e55d5c01701c0c06175ab62be8bccd7 > a > .xbe9c2073a11ae805a61e0b728d7e57b6{
+font-size: 22.1px;
+margin-top: 1.875rem;
+margin-bottom: 0.625rem;
+}
+.navbar a{
+font-size: 16.4px!important;
+font-weight: normal;text-transform:uppercase
+}
+.justify-content-evenly{
+justify-content: space-evenly;
+}
+.fa19dfa3b4010ef345fc0c2958bb52477{
+font-size:61px!important;font-weight:600
+}
+.xc3febb7d9ebe6343324767d3d6cf102e{
+background:#ffffff;
+}
+h3,h2,h4,h5{
+font-weight:900;font-size:36px
+}
+.ue9327b3ceee9186086a6b5449fea5485{
+    background-color: transparent;
+font-size: 23.5px;
+height: 47.8px;
+min-width: 50px;
+padding: 0.7rem;
+padding-top: 12.7px;
+color: #ffffff !important;
+border: 1px solid #ffffff;
+border-radius: 25px;
+}
+.post-content *{
+
+font-size: 1.25rem;
+}
+.xc3febb7d9ebe6343324767d3d6cf102e *{
+color:#515151!important;
+}
+.c593ce61a1f62057f95ddd71c1755cbe0{
+color: #fff;
+background-color: #ff905b;
+border-color: #ff945f;
+display: inline-block;
+font-weight: 800;
+line-height: 1.5;
+text-align: center;
+vertical-align: middle;
+cursor: pointer;
+padding: 1rem 1.75rem;
+font-size: 0.875rem;
+border-radius: 0;
+transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.eff21ec8f54963101dc7f753aca31d71c{
+font-size:16px!important;
+color: #606060;
+}
+.nav-item{
+padding-left:8.5px;
+padding-right:7.5px;
+padding-top:5.4px;
+padding-bottom:4.8px;
+}
+.x89932909fac48242e46f68cefacedaf3{
+font-size: 14.5px;
+}
+.ab8ad71ad3a4c4a22c387f9901109fc93{
+background:rgba(188,188,134,0.25);
+color:#4e4e4e;
+}
+.w3c71c65db68e55e34d21d3dc367c6d49{
+transition: all 0.3s; 
+}
+.a4fcbb7c425a8b650e7cbce348ed02141{
+background:#FEF6EA;border-bottom:1px solid #bcbc86
+}
+.v4e55d5c01701c0c06175ab62be8bccd7:hover{
+box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
+border-radius: 5px;
+}
+.c45ec0095aa362571fbef8d3f7321cd6f{
+background:#a55c5c!important ;
+}
+.navbar-brand img{
+position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
+}
+.v4e55d5c01701c0c06175ab62be8bccd7 > .td49c32935f881a30f1f166a118b262dd > a{
+text-decoration: none;
 }
 footer{
-background:#6b6868;
-color:#b8b7b7;
+background:#636060;
+color:#c3c2c2;
 }
-html{
-scroll-behavior: smooth;
+.v0785c07a92340776ff05e82eb5baf9d2:hover,.e7fadd32a2352434ae9d4825b04d1cd97:hover{
+background-size: 100% 100% !important;
+background: #ffffff!important;
+background-repeat: no-repeat !important;
+background-position: 0 90% !important;
+transition: background-size 0.2s ease-in !important;
 }
-.u2ae745bb4e94503c05b0a74f3f2cabad{
-color: #444444;
+.w3a8ee57452d424b44334640c65873ef4{
+color: #999999;
+font-size: 19.9px;
+margin-bottom: 21.2px;
+}
+.td49c32935f881a30f1f166a118b262dd{
+font-size:15.4px!important;
+font-style: italic;
+margin-top: 0;
+font-style: normal;
+color: #535353;
+}
+.ad9a3a87edbd9953b4054656c16a8e84b i:hover{
+background: white;
+color: #fecbcf;!important;
+line-height: 35px;
+border-radius: 50%;
+width: 37.2px;
+text-align: center;
+height: 37.2px;
+}
+.v4e55d5c01701c0c06175ab62be8bccd7{
+padding: 20px;
+background: #f5f5f7;
+margin-bottom: 30px;
+position: relative;
+border-radius: 2px;  
+
+margin-bottom: 30px;
+transition: all 400ms;
+}
+.b23bd670dd03e79070444131ea4f15fca{
+color:#514efd!important;
 }
 .bg-new{
 background: #fd834c;
@@ -295,8 +263,40 @@ border-radius: 100px;
 font-weight: 900;
 font-size: 16px;
 }
-.y749b3824004a0b791f09e46c6ed276a4{
-color:#514efd!important;
+.btn-md{
+padding: 15.5px 30.2px;
+border-radius: 0;
+}
+.ab8ad71ad3a4c4a22c387f9901109fc93 p,.ab8ad71ad3a4c4a22c387f9901109fc93 a,.ab8ad71ad3a4c4a22c387f9901109fc93 span,.ab8ad71ad3a4c4a22c387f9901109fc93 label{
+font-size:16px!important;
+}
+ul li a{
+color:#fd834c
+}
+body{
+color: #4f4f4f;
+}
+*{
+font-family: 'Roboto', sans-serif;
+}
+.v4e55d5c01701c0c06175ab62be8bccd7 > a{
+color:#000000;
+}
+.container{
+max-width:1300px
+}
+.t11d1a412aa5508afbc6001d2679817e4{
+color: #454545;
+}
+.va770ddb20eea9c8a7117743d51fbecad{
+font-weight:900;
+}
+.navbar-toggler span{
+display: flex;
+align-items: center;
+justify-content: center;
+border: 1px solid lightgrey;
+border-radius: 3px;
 }
     .dropdown-submenu {
     position: relative;
@@ -416,12 +416,12 @@ color:#514efd!important;
 </style>
 </head>
 <body>
-<nav class="navbar container navbar-expand-lg">
+<nav class="container navbar navbar-expand-lg">
 <a class="navbar-brand" href="index.html"  ><img alt="img/styleandapparel1.png" src="img/styleandapparel1.png"  width="200px" height="190px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="navbar-nav ml-auto align-items-center d-flex"><li class="nav-item"><a class="nav-link x824f840c05de5a95e45c3b0d4ea26155" href="news.html"  >Blogs</a></li>
-<li class="nav-item"><a class="x824f840c05de5a95e45c3b0d4ea26155 nav-link"  href="about-us.html">About Us</a>
+<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="align-items-center d-flex navbar-nav ml-auto"><li class="nav-item"><a class="v0785c07a92340776ff05e82eb5baf9d2 nav-link" href="news.html"  >Blogs</a></li>
+<li class="nav-item"><a class="v0785c07a92340776ff05e82eb5baf9d2 nav-link"  href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -529,13 +529,13 @@ color:#514efd!important;
 <p>For questions about this Privacy Policy, requests concerning your personal information, or concerns about our data practices, please contact us through the website&rsquo;s contact page or email us at:</p>
 </section>
 <footer>
-<div class="pt-5 container py-4" >
+<div class="py-4 container pt-5" >
 <div class="row"><div class="col-lg-3">
 <p>Quick Links</p>
-<p><a class="x824f840c05de5a95e45c3b0d4ea26155" href="index.html"  target="_blank">Home</a></p><p><a class="x824f840c05de5a95e45c3b0d4ea26155" href="news.html"  target="_blank">Blogs</a></p><p><a class="x824f840c05de5a95e45c3b0d4ea26155" href="about-us.html"  target="_blank">About Us </a></p><p><a class="x824f840c05de5a95e45c3b0d4ea26155" href="privacy-policy.html"  target="_blank">Privacy Policy</a></p></div><div class="col-lg-3"><p>Featured Guides</p> 
-<p><a class="x824f840c05de5a95e45c3b0d4ea26155" href="sitemap.html" >Sitemap</a></p>
-<p><a class="x824f840c05de5a95e45c3b0d4ea26155" href="privacy-policy.html" >Privacy Policy</a></p>
-<p><a class="x824f840c05de5a95e45c3b0d4ea26155" href="about-us.html" >About Us</a></p>
+<p><a class="v0785c07a92340776ff05e82eb5baf9d2" href="index.html"  target="_blank">Home</a></p><p><a class="v0785c07a92340776ff05e82eb5baf9d2" href="news.html"  target="_blank">Blogs</a></p><p><a class="v0785c07a92340776ff05e82eb5baf9d2" href="about-us.html"  target="_blank">About Us </a></p><p><a class="v0785c07a92340776ff05e82eb5baf9d2" href="privacy-policy.html"  target="_blank">Privacy Policy</a></p></div><div class="col-lg-3"><p>Featured Guides</p> 
+<p><a class="v0785c07a92340776ff05e82eb5baf9d2" href="sitemap.html" >Sitemap</a></p>
+<p><a class="v0785c07a92340776ff05e82eb5baf9d2" href="privacy-policy.html" >Privacy Policy</a></p>
+<p><a class="v0785c07a92340776ff05e82eb5baf9d2" href="about-us.html" >About Us</a></p>
 <p><div class="footer-brand-block">
 <h3>&nbsp;</h3>
 </div></p>
@@ -543,11 +543,11 @@ color:#514efd!important;
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/TheBestSuspenders" class="facebook d2019d752dcb0cb3070e668f02c07d7e3" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.linkedin.com/in/holdup-suspenders-85516227b" class="pinterest d2019d752dcb0cb3070e668f02c07d7e3" rel="nofollow"><i class="fa fa-linkedin"></i></a>
-<a href="https://www.instagram.com/intelligentthreads/" class="d2019d752dcb0cb3070e668f02c07d7e3 google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/@intelligentthreadshttps://www.youtube.com/c/Tough-hook" class="d2019d752dcb0cb3070e668f02c07d7e3 youtube" rel="nofollow"><i class="fa fa-youtube"></i></a>
-<a href="https://x.com/Intelligentthr1" class="twitter d2019d752dcb0cb3070e668f02c07d7e3" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/TheBestSuspenders" class="ad9a3a87edbd9953b4054656c16a8e84b facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/in/holdup-suspenders-85516227b" class="ad9a3a87edbd9953b4054656c16a8e84b pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/intelligentthreads/" class="ad9a3a87edbd9953b4054656c16a8e84b google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/@intelligentthreadshttps://www.youtube.com/c/Tough-hook" class="youtube ad9a3a87edbd9953b4054656c16a8e84b" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://x.com/Intelligentthr1" class="ad9a3a87edbd9953b4054656c16a8e84b twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 </div>
